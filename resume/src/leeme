@@ -1,3 +1,6 @@
-Este es mi CV. Se ejecuta el archivo que se llama resume como un archivo R markdown.
+Este es mi CV. Debe ejecutarse el archivo que se llama "resume" como un archivo R markdown.
 Para esto debe tenerse la carpeta que se llame figs, en donde aparece la imagen que se llama "Rplot03".
-Dicha imagen se genera con el archivo que se llama "figuras" que se ejecuta como un script de R usual.
+Dicha imagen se genera con el archivo que se llama "figs" que se ejecuta como un script de R usual.
+
+Para obtener el pdf del cv se escribe en la consola el comando
+pagedown::chrome_print(/src/resume.html, format="pdf")
