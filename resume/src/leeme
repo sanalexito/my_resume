@@ -1,0 +1,3 @@
+Este es mi CV. Se ejecuta el archivo que se llama resume como un archivo R markdown.
+Para esto debe tenerse la carpeta que se llame figs, en donde aparece la imagen que se llama "Rplot03".
+Dicha imagen se genera con el archivo que se llama "figuras" que se ejecuta como un script de R usual.
