@@ -1,0 +1,197 @@
+---
+title: "Alejandro Sánchez Peralta"
+author: Alejandro Sánchez Peralta
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: ['style.css', 'resume']
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r Chunk options, echo=FALSE}
+knitr::opts_chunk$set(warning = F, message = F, echo = FALSE, results = 'asis')
+```
+
+
+Aside
+================================================================================
+
+```{r Logo}
+knitr::include_graphics(here::here('figs', 'Rplot03.jpeg'))
+
+```
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> sanchez.alexito@gmail.com
+- <i class="fa fa-twitter"></i> @San_alehandro
+- <i class="fa fa-phone"></i> (+52) 55 2758 0678
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+**TIC:** 
+
+- <i class="fa fa-laptop-code"></i> Microsoft Office
+- <i class="fa fa-laptop-code"></i> R (Shiny, MarkDown) 
+
+**Idiomas:** 
+
+- - <i class="fa fa-globe-americas"></i> Epañol
+- - <i class="fa fa-globe-americas"></i> Inglés
+
+
+Areas de Interés {#interests}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-wave-square"></i> Teoría de muestreo
+
+<i class="fa fa-wave-square"></i> Diseño y análisis de encuestas
+
+<i class="fa fa-wave-square"></i> Minería de textos  
+
+<i class="fa fa-wave-square"></i> Análisis econométrico
+
+<i class="fa fa-wave-square"></i> Políticas públicas desde la perspectiva 
+                                  de la ciencia de datos
+                                  
+Main
+================================================================================
+
+Alejandro Sánchez Peralta {#title}
+--------------------------------------------------------------------------------
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### (UAM-I) Universidad Autónoma Metropolitana-Iztapalapa
+
+Maestría en Ciencias Matemáticas (Aplicadas e Industriales)
+
+Mexico City, México
+
+2008 - 2010
+
+### (UAM-I) Universidad Autónoma Metropolitana-Iztapalapa
+
+Licenciatura en Matemáticas
+
+Mexico City, México
+
+2001 - 2007
+
+### CONALEP IZTACALCO-I
+
+Técnico electromecánico
+
+Mexico City, México
+
+1997 - 2000
+
+Experiencia laboral{data-icon=briefcase} 
+--------------------------------------------------------------------------------
+
+### Jefe de Departamento
+
+*Análisis y Evaluación de Modelos de Información*
+
+INEGI
+
+10-2016 - A la fecha
+
+Alain Charrez Quiterio, M en C.
+
+**Actividades**:
+
+  - Supervisión de la validación de información de las bases de datos correspondientes a las encuestas nacionales de gobierno (ENVE, ENAID, ENCRIGE, ENPOL, ENECAP)
+  - Coordinación de la generación de los indicadores clave de seguridad pública, victimización, impartición de justicia y sistema penitenciario
+  - Corroboración de resultados con otras fuentes de información
+  - Generacion de las respuestas a las solicitudes de información por parte de académicos y funcionarios públicos
+  - Impementación de metodologías para la captación de información de poblaciones ocultas
+  - Optimización de los procesos de generación de información de gobierno
+  
+### Enlace 
+
+*Análisis y Evaluación de Modelos de Información*
+
+INEGI
+
+08-2015 - 10-2016
+
+Ricardo Novelo Martínez, M. en C.
+
+**Actividades**:
+
+  - Validación de las bases de datos de las encuestas nacionales de gobierno
+  - Revisión de presentaciones ejecutivas
+  - Generación de indicadores de seguridad pública, impartición de justicia y sistema penitenciario
+  - Replicación de los resultados de las distintas ediciones de las encuestas nacionales de gobierno para la detección de posibles discrepancias con las fuentes oficiales
+
+### Profesor Asociado 
+
+*Departamento de Matemáticas*
+
+UAM-I
+
+05-2010 - 07-2015
+
+Joaquín Delgado Fernádez, PhD
+
+**Actividades**:
+
+  - Impartición de clases de cálculo, bioestadística y álgebra lineal a nivel licenciatura
+  - Organización de seminarios
+  - Ayudantías para la regularización del alumnado
+
+### Comité organizador de las XXI y XXII Semana de las Matemáticas
+
+*Departamento de Matemáticas*
+
+UAM-I
+
+2013-2014
+
+N/A
+
+**Actividades**:
+
+  - Coordinación de horarios
+  - Administración de presupuesto
+  - Diseño de constancias y carteles
+
+Publicaciones
+--------------------------------------------------------------------------------
+### Arbitraje de oferta final. Determinación del pago óptimo en un conflicto ambiental.
+
+Realidad Datos y Espacio. Revista Internacional de Estadística
+
+N/A
+
+Vol.8, Núm.3, pp.15-29, 2017.
+
+### El primer teorema fundamental para la valuación de activos para tiempo discreto y horizonte finito.
+
+Mixba'al, Revista Metropolitana de Matemáticas
+
+N/A 
+
+Vol.2, No.1, 2011
+
+Actividades extracurriculares {data-icon=file-alt}
+--------------------------------------------------------------------------------
+
+### Youtube
+
+Mad Temáticos
+
+N/A
+
+07-2015 - a la fecha
+
+
+**Descripcion**: *Canal de entretenimiento y divulgación.* 
+
