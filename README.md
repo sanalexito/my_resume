@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on goberment agencies
 - 📫 Write me via e-mail
 
-Pueden ver y descargar el formato para la creación del CV que aparece en el repositorio. El código y demás información aparecen el la ruta resume/source
+Pueden ver y descargar el formato para la creación del CV que aparece en el repositorio. El código y demás información aparecen el la ruta resume/src
 <!---
 sanalexito/sanalexito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
