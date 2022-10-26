@@ -1,0 +1,91 @@
+---
+name: Alejandro
+surname: Sánchez Peralta
+position: "Jefe de Departamento"
+address: "Instituto Nacional de Estadística y Geografía"
+phone: +52 55 2758 0678
+profilepic: alex_2.png
+
+email: "sanchez.alexito@gmail.com"
+twitter: san_alehandro  
+linkedin: sanchez-peralta-alejandro
+github: sanalexito
+date: "`r format(Sys.Date(), '%B %Y')`"
+aboutme: "Data Scientist con más de cuatro años de experiencia en el procesamiento de información y el análisis de encuestas para el INEGI. Entre otras funciones soy encargado de generar la información oficial a nivel nacional de la ENVE, la ENCRIGE y la ENCIG. Tengo conocimientos en estadística y soltura en el manejo, limpieza, análisis y visualización de datos usando herramientas de R, Python y Power BI. Me agrada abordar la generación de valor a partir de datos crudos."
+output: vitae::twentyseconds
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# WORK EXPERIENCE
+
+## INEGI    
+
+## Jefe de Departamento, 16/08/2016 a la fecha.
+
+* Limpieza, preparación y validación de datos para la correcta generación de KPIs de encuestas (ENVE, ENCRIGE y ENCIG) empleando librerías de gestión de datos como Tidyverse, Dplyr, Stringr de R; o Numpy y Pandas cuando se requiere el uso de Python.
+* Colaboración con ingenieros de datos y otros data scientists para la implementación de modelos que apoyen a la toma de desiciones con base en evidencia cuantitativa. Esto incluye el diseño de dashboards con Shyni o Power BI y la generación de tabulados en Excel.
+ 
+* Integración de la documentación del proceso de validación de los flujos de información de distintas encuestas, así como la generación de reportes técnicos usando Markdown y Google Colaboratory.
+
+* Logros clave en mi actual posición icluyen el rediseño de procesos computacionales para mejorar la eficiencia en la generación de información en 30%.
+  
+## INEGI
+
+## Enlace, 01/06/2015 - 15/18/2016.
+
+* Revisión y contraste de datos en las presentaciones ejecutivas en temas de seguridad pública, victimización e impartición de justicia.
+
+* Elaboración de pronósticos para diferentes indicadores de seguridad pública como el total de delitos o la "cifra negra de delitos" usando Caret y Forecast.
+
+* Calculo de distintos indicadores para las Encuestas Nacionales de Go-bierno mediante la librería Survey de R.
+
+
+## UAM-I
+
+## Profesor asociado, 2010 - 2015.
+
+* Planeación trimestral e impartición de clases en el Departemento de Matemáticas de la UAM-I. En este puesto, en adición a la impartición de clases, formé parte del comité organizador de las ediciones  XXI y XXII de la Semana de las Matemáticas, que se realiza anualmente en el Departamento de Matemáticas de la UAM-Iztapalapa. 
+
+# Educación
+ * [\color{mainblue}{Curso Power BI - Análisis de Datos y Business Intelligence, 2022, Ûdemy (21 hrs.)}](https://udemy-certificate.s3.amazonaws.com/pdf/UC-024bbc1d-e043-4c42-81af-d38911aef436.pdf)
+ * [\color{mainblue}{Diplomado: Presupuesto Basado en Resultados, 2022, SHCP (120 hrs.)}](https://drive.google.com/file/d/1C7xov9FNW8QIL6GXNMRNRVJNBmozsHCz/view?usp=sharing) 
+ * Maestría en Ciencias Matemáticas, 2008 - 2010, Universidad Autónoma Metropolitana-Iztapalapa.
+ * Licenciatura en Matemáticas, 2001 - 2007, Universidad Autónoma Metropolitana-Iztapalapa.
+
+
+# Actividades Extracurriculares {data-icon=images}
+
+ * [\color{mainblue}{Certamen de Innovación en Transparencia 2021.}](https://aplicacionasp.shinyapps.io/datatonicos_app/?_ga=2.114794881.748076323.1652235506-1286185329.1634413335) <p>
+Participación en el "Primer Dataton sobre la Plataforma Tu Ciudad, Tu Dinero", organizado por la Agencia Digital de Inovación Pública<br /> ([ADIP](https://dataton2021.tudinero.cdmx.gob.mx/)
+), con el Proyecto de Análisis del Ingreso del Metro de la Ciudad de México.
+
+
+<b>
+
+<b>
+
+</br>
+
+* [\color{mainblue}{Plataforma de Percepción de Inseguridad.}](https://aplicacionasp.shinyapps.io/plapim_app/?_ga=2.9462451.748076323.1652235506-1286185329.1634413335#section-inicio)
+<p> Desarrollo de la plataforma de consulta con datos de la National Survey on Victimization and Perception on Public Safety (ENVIPE), 05-2020.
+
+# Publicaciones
+
+* [\color{mainblue}{Arbitraje de Oferta Final}](https://rde.inegi.org.mx/index.php/2017/12/18/arbitraje-oferta-final-determinacion-del-pago-optimo-en-conflicto-ambiental/). Determinación del pago óptimo en una disputa ambiental. Realidad, Datos y Espacio. Revista Internacional de Estadística y Geografía, Vol.8, No.3, pp.15-29, 2017.
+  
+<!--* El primer teorema fundamental de valuación de activos en tiempo discreto y horizonte finito. Mixba'al, Revista Metropolitana de Matemáticas,
+Vol.2, No.1, 2011">
+
+<!-- *Buenas tardes.  -->
+
+<!-- Soy Alejandro Sánchez Peralta, tengo 39 años de edad y vivo en Iztapalapa, CDMX. Actualmente ocupo el puesto de Jefe de Departamento de Análisis y Evaluación de Modelos de Información, en el área de Encuestas Nacionales de Gobierno. Me considero un elemento con sólida formación académica y alto sentido de la ética laboral. Me siento comprometido con mi trabajo y disfruto de compartir con mis compañeros las jornadas del día a día.  -->
+
+<!-- A lo largo de casi siete años en el INEGI aprendí acerca de la gestión de proyectos y la generación de reportes ejecutivos a través de R y Power BI. He participado en encuestas de gobierno como la ENVE, la ENCRIGE y la ENCIG, todas ellas relacionadas con empresas, lo que me ha permitido conocer acerca del marco regulatorio y cuestiones económicas. -->
+
+<!-- Así, dada mi experiencia considero que soy un buen candidato para trabajar como científico de datos en BBVA. -->
+
+
